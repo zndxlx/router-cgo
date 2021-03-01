@@ -139,5 +139,5 @@ func UpdateCfg() {
         }
     }
 
-    return
+    return 
 }
